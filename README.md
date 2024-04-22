@@ -25,8 +25,10 @@
         </ol>
       <h2>Screenshots</h2>
         <p>Screenshots of the application are given here to give users a visual preview.</p>
-      ![Screenshot 1](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot1.png)
-      ![Screenshot 2](https://github.com/yourusername/your-repo/blob/main/screenshots/screenshot2.png)
+        <img src="Chat1.png" alt="This is an image">
+        <img src="Chat2.png" alt="This is an image">
+        <img src="Chat3.png" alt="This is an image"><br>
+    
   <h2>Contributing</h2>
         <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
     </div>
