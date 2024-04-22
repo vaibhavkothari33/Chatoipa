@@ -1,7 +1,7 @@
 <body>
     <div class="container">
         <h1>Chatoipa</h1>
-        <h1>Simple Chat Application</h1>
+        <h2>Simple Chat Application</h2>
         <p>This is a simple chat application built in Java using Swing for the GUI. It consists of a server and client component allowing two users to exchange messages in real-time.</p>
                 <h2>Features</h2>
         <ul>
