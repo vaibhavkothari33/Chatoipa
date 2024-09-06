@@ -12,7 +12,7 @@
         <h2>Installation</h2>
         <ol>
             <li>Clone the repository to your local machine:</li>
-            <pre><code>git clone https://github.com/yourusername/your-project.git</code></pre>
+            <pre><code>git clone https://github.com/vaibhavkothari33/Chatoipa.git</code></pre>
             <li>Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).</li>
             <li>Compile and run the <code>Server</code> class to start the server.</li>
             <li>Compile and run the <code>Client</code> class to start the client application.</li>
